@@ -1,0 +1,4 @@
+.terraform
+.env
+terraform-aws.pub
+.terraform.lock.hcl
